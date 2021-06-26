@@ -1,2 +1,0 @@
-# practice-assignments-java
-Xxyz
